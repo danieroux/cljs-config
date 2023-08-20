@@ -1,0 +1,2 @@
+{:main             warning-handlers
+ :warning-handlers [cljs.analyzer/default-warning-handler]}
